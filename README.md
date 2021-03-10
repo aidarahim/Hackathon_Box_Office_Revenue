@@ -1,9 +1,11 @@
 # **Hackathon - Box Office Revenue Prediction**
-Aida Rahim, Okechukwu Ofili, Matt Bildzok, and Andy Roberts
+
+<img src="./data/BoxOfficePreds.png" style="float: center; margin: 40px; height: 300px">
+
 ## Problem Statement
 Our analysis aims to analyze an initial dataset of 23 columns with the purpose of predicting movie revenue. Additionally, our model will provide detailed information regarding the greatest contributors towards box office revenue.
 
-This is originally a Kaggle dataset: https://www.kaggle.com/c/tmdb-box-office-prediction
+This was a team effort using a [Kaggle dataset](https://www.kaggle.com/c/tmdb-box-office-prediction).
 ## Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
